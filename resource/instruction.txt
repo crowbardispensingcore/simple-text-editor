@@ -1,0 +1,11 @@
+Instructions:
+	- Character "|" (in green) represents the cursor.
+	- The cursor points to the character before it.
+	- In navigation mode, use "A" and "D" to move the cursor to left and right.
+	- In navigation mode, press "Q" to exit navigation mode.
+
+Notes:
+	- This program can only run on Windows.
+	- The user may encounter bugs.
+
+
